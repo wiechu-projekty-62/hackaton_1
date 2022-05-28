@@ -22,7 +22,7 @@ hasła. W każdym momencie może spróbować odgadnąć całe hasło.
 Program pokazuje ile liter ma hasło i te litery, które 
 zostały już odgadnięte.
 
-Dodatkowo została dołączona funkcja rysunek(nr) wyswietlająca
+Dodatkowo została dołączona funkcja rysunek(nr) wyświetlająca
 częściową szubienicę w zależności od stanu gry. Ta funkcja 
 rysunkowa wykorzystuje grafikę żółwia.
 
