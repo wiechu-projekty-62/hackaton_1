@@ -1,4 +1,4 @@
-Gra w wisielca.
+# Gra w wisielca.
 
 Hasła do odgadnięcia przez użytkownika są w pliku miasta.txt
 Z modułu random jest zaimportowana funkcja choice, której
